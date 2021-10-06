@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'nInA';
+    src: url('./Roboto-ThinItalic.ttf') format('TrueType');
+}
+@font-face {
+    font-family: 'Bhs';
+    src: url('./Roboto/Roboto-Black.ttf');
+}
+@font-face {
+    font-family: urg;
+    src: url('./Roboto/Roboto-Light.ttf');
+}
+@font-face {
+    font-family: 'uiop';
+    src: url('./Roboto/Roboto-LightItalic.ttf');
+}
+.o{
+    font-family: 'nInA', Arial, Helvetica, sans-serif;
+}
+.t{
+    font-family: 'Bhs';
+}
+.th{
+    font-family: 'urg';
+}
+.f{
+    font-family: 'uiop';
+}
